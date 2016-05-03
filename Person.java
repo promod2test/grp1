@@ -11,6 +11,8 @@
 public class Person{
 
 	String name, vorname, anrede, strasse, plz, ort, telefon, fax, bemerkung;
+	
+	 String alter;
 
 	public Person(String a, String n, String v, String s, String p, String o,
 			String t, String f, String b) 
